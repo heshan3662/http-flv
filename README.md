@@ -1,6 +1,6 @@
-# http-flv
-express-ws框架搭建拉流服务器，web浏览器无插件播放 http_flv
+# express-flv
 
+## Build Setup
 
 ``` bash
 # install dependencies
